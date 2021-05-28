@@ -1,0 +1,54 @@
+.item{
+    display: flex;
+    flex-wrap: wrap;
+    color: snow;
+    opacity: 1;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #36a5ee
+}
+
+.designs img{
+    border: 2px solid #f20533;
+    border-radius: 50px;
+}
+
+.item p{
+    margin-right: 30px;
+}
+
+.main{
+    text-align: center;
+    color: violet;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color:tomato
+}
+
+.bodyImg{
+    color: yellow;
+}
+
+.item h2{
+    color: silver;
+}
+
+.item img:hover{
+    opacity: 0.5;
+}
+
+.menu a{
+    text-decoration: none;
+}
